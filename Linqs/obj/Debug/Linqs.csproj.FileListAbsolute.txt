@@ -1,0 +1,6 @@
+C:\Users\JMHM\source\repos\Linqs\bin\Debug\Linqs.exe.config
+C:\Users\JMHM\source\repos\Linqs\bin\Debug\Linqs.exe
+C:\Users\JMHM\source\repos\Linqs\bin\Debug\Linqs.pdb
+C:\Users\JMHM\source\repos\Linqs\obj\Debug\Linqs.csprojAssemblyReference.cache
+C:\Users\JMHM\source\repos\Linqs\obj\Debug\Linqs.exe
+C:\Users\JMHM\source\repos\Linqs\obj\Debug\Linqs.pdb

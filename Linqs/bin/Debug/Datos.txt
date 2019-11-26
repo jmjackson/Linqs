@@ -1,0 +1,12 @@
+1,Luis Fuentes,Ingeniero,32
+2,Luis Perez,Profesor,32
+3,Luis Marquez,Ingenierio,32
+4,Sara Fuentes,Ingenierio,32
+5,Luisa Fuentes,Ingenierio,32
+6,Jose Fuentes,Ingenierio,32
+7,Laura Francisco,Ingenierio,32
+8,Mauricio Hernandez,Ingenierio,32
+9,Jose Lopez,Ingenierio,32
+10,Alicia Chavez,Ingenierio,32
+11,Francisco Vasquez,Ingenierio,32
+12,Jose Perez,Ingenierio,32
